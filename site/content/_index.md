@@ -1,6 +1,6 @@
 ---
-title: "The Ultimate Smoothie Diet Weight Loos Program"
-subtitle: Support sustainable farming while enjoying a cup
+title: "The Ultimate Smoothie Diet Weight Loss Program"
+subtitle: Delicious, Easy-To-Make Smoothies For Rapid Weight Loss, Increased Energy, & Incredible Health!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
