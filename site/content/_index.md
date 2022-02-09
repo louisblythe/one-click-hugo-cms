@@ -31,8 +31,11 @@ products:
       fall in love with in our shop.
 values:
   heading: What Can You Eat?
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    On the Smoothie Diet, we encourage you prepare and drink two smoothies a day
+    as meal replacements. The smoothie ingredients vary, focusing on lots of
+    fruits and vegetables with some protein and healthy fats.
+
+
+    The diet's e-book offers some guidance on the one solid-food meal followers are advised to consume each day (including recommendations for what to eat and some "whole food" recipes), as well as suggestions for low-sugar, high-fiber snacks. You are also allowed to eat normally one day per week, so long as the meals adhere to the recommendations in the e-book.
 ---
