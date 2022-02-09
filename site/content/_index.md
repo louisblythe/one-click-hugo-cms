@@ -2,7 +2,7 @@
 title: The Ultimate Smoothie Diet Weight Loss Program
 subtitle: Delicious, Easy-To-Make Smoothies For Rapid Weight Loss, Increased
   Energy, & Incredible Health!
-image: /img/home-jumbotron.jpg
+image: img/alex-lvrs-jjkeqgcnzs4-unsplash.jpg
 blurb:
   heading: What Is the Smoothie Diet?
   text: >-
